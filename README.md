@@ -65,7 +65,7 @@
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Ruby" />
       <br>Rust
     </td>
   </tr>
@@ -131,7 +131,7 @@
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/rails-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="Laravel" />
       <br>Ruby on Rails
     </td>
     <td align="center" width="90">
@@ -221,7 +221,7 @@
       <br>Jest
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cypress-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="AWS" />
       <br>Cypress
     </td>
   </tr>
