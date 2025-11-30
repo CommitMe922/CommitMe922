@@ -8,7 +8,7 @@
   <a href="https://github.com/CommitMe922"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Web+&Mobile+developer;Tech+Enthusiast;Master+of+modern+Skills" alt="Typing SVG" /></a>
 </p>
 <p align="center">     
-    「 I am a Full stack Web and Mobile Application Professional 」
+    <b>「 I am a Full stack Web and Mobile Application Enthusiast 」</b>
     <br>
     <br>
 
@@ -19,10 +19,10 @@
 # About me
 
 <p>
-👯 &emsp; I'm working as a <code style="color:#9DAAF2">Senior Full Stack Developer</code> to build elaborate websites or apps.<br/><br/>
-✌️ &emsp; I’m interested in working with <code style="color:#9DAAF2">Dynamic Teams or Startups</code> with my passion.<br/><br/>
-❤️ &emsp; I like to breakthrough <code style="color:#9DAAF2">Any Challenging Projects</code><br/><br/>
-⚡ &emsp; Fun fact: I have a <code style="color:#9DAAF2">Good sense of humor</code>, so it is fun to work together.
+👯 &emsp; I'm working as a <code style="color:#9DAAF2">Senior Full Stack Developer</code> to build scalable web and mobile applications.<br/><br/>
+✌️ &emsp; I'm passionate about working with <code style="color:#9DAAF2">Dynamic Teams and Startups</code> to create innovative solutions.<br/><br/>
+❤️ &emsp; I love taking on <code style="color:#9DAAF2">Challenging Projects</code> and turning ideas into reality.<br/><br/>
+⚡ &emsp; Fun fact: I have a <code style="color:#9DAAF2">Great sense of humor</code>, making collaboration enjoyable and productive.
 </p>
 <br/>
 <br/>
@@ -65,7 +65,7 @@
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Ruby" />
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
     </td>
   </tr>
@@ -131,7 +131,7 @@
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="Ruby on Rails" />
       <br>Ruby on Rails
     </td>
     <td align="center" width="90">
@@ -221,7 +221,7 @@
       <br>Jest
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Cypress" />
       <br>Cypress
     </td>
   </tr>
